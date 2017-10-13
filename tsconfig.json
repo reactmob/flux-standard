@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "strictNullChecks": true,
+        "target": "es5"
+    },
+    "files": [
+    ]
+}
